@@ -21,5 +21,5 @@ var twoSum = function (nums, target) {
   }
 };
 
-let nums = [3, 2, 4];
+let nums = [3, 4, 4];
 let target = 7;
