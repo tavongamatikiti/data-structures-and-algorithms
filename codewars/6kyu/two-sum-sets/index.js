@@ -16,3 +16,9 @@ function hasPair(A, sum) {
 
   return false;
 }
+
+console.log(hasPair([1, 3, 7], 10));
+
+console.log(hasPair([-5, -2, 1], -1));
+
+console.log(hasPair([2, 4, 6], 11));
